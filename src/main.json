@@ -1,0 +1,76 @@
+[
+    {
+        "id": 1,
+        "title": "Pizza 'Margherita' ",
+        "desc": "Pizza margherita, as the Italians call it, is a simple pizza hailing from Naples. When done right, margherita pizza features a bubbly crust, crushed San Marzano tomato sauce, fresh mozzarella and basil, a drizzle of olive oil, and a sprinkle of salt. That is all",
+        "price": 7,
+        "url": "https://cosori.com/cdn/shop/articles/classic-margherita-pizza.jpg?v=1683927292",
+        "thumbnails": [
+            "https://christiesbakery.com/cdn/shop/products/margherita-pizza-10-303327_1200x.jpg?v=1618056401",
+            "https://www.fatlulus.com.au/wp-content/uploads/2021/01/KIDS-PIZZA-%E2%80%93-MARGHERITA.jpg",
+            "https://www.justspices.co.uk/media/recipe/Pizza_Gewuerz_Pizza_Margherita-4.jpg"
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Pizza 'Pepperoni'",
+        "desc": "Made of pizza crust, pizza sauce, cheese, and pepperoni. Pepperoni is basically an American version of salami. Pepperoni is a meat mixture of beef and pork that has been cured and seasoned with paprika and chili powder.",
+        "price": 12,
+        "url": "https://samsgiantmanhattanpizzaca.com/wp-content/uploads/2019/11/pepperoni.jpg",
+        "thumbnails": [
+            "https://images.unsplash.com/photo-1628840042765-356cda07504e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cGVwcGVyb25pJTIwcGl6emF8ZW58MHx8MHx8fDA%3D&w=1000&q=80",
+            "https://imageproxy.wolt.com/menu/menu-images/625eb58f9317233aad360eee/007dad04-bfe6-11ec-8a27-76a90b0e5a98_625eb88ee87ff36e9ec33dd9.jpeg",
+            "https://www.cremeux.in/wp-content/uploads/2023/07/Chicken-Pepperoni-3-copy-1.jpeg"
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Pizza 'Napoletana'",
+        "desc": "Naples, Italy is the birthplace of pizza. Napoletana Pizza is based on the use of simple ingredients, type “00” flour, San Marzano tomatoes, fresh yeast, mozzarella, herbs, and purified water. The oven must be wood fired and constructed in a bell shape. The pizzas must be cooked at a blistering 900 Degrees.",
+        "price": 9,
+        "url": "https://axwwgrkdco.cloudimg.io/v7/__gmpics__/8b7aeb1945724d9fa22212b5dc1809e5",
+        "thumbnails": [
+            "https://134076738.cdn6.editmysite.com/uploads/1/3/4/0/134076738/s532524418879159734_p22_i4_w1000.jpeg",
+            "https://bonafurtuna.com/cdn/shop/products/bona_furtuna_classico_pizza_kit_2_1000x.jpg?v=1682111025",
+            "https://static.wixstatic.com/media/eb156b_0b77fa19a18646da9859764f6d24bd3f~mv2.jpg/v1/fill/w_1000,h_1000,al_c,q_85,usm_0.66_1.00_0.01/eb156b_0b77fa19a18646da9859764f6d24bd3f~mv2.jpg"
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Pizza'Hawaiian'",
+        "desc": "Hawaiian pizza is a pizza originating in Canada and is traditionally topped with pineapple, tomato sauce, cheese, and either ham or bacon.",
+        "price": 10,
+        "url": "https://elpatron.co.za/uploads/partner/54/product_images/compressed/1772967284hawiian-pizza.jpg",
+        "thumbnails": [
+            "https://italianexpressonline.com/wp-content/uploads/2019/05/hawaiian.jpg",
+            "https://s3-media0.fl.yelpcdn.com/bphoto/nvnXuInjrNibfO5Ol-iH2A/1000s.jpg",
+            "https://www.torontopizza.com.cy/menu/latsia/611-thickbox_default/toronto-special.jpg"
+
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Pizza 'Siciliana'",
+        "desc": "Traditional Sicilian pizza is often thick crusted and rectangular, but can also be round and similar to the Neapolitan pizza. It is often topped with onions, anchovies, tomatoes, herbs and strong cheese such as caciocavallo and toma. Other versions do not include cheese.",
+        "price": 13,
+        "url": "https://bonafurtuna.com/cdn/shop/files/Pizza_WEB_1000x.jpg?v=1690497253",
+        "thumbnails": [
+            "https://images.squarespace-cdn.com/content/v1/600a0406da77dc6a93418d7a/31b2db0b-658d-4d26-8360-ad77533a1f69/pizza+pic2.jpg",
+            "https://images.unsplash.com/photo-1671572576802-3264725a715a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8UGl6emElMjBzaWNpbGlhbmF8ZW58MHx8MHx8fDA%3D&w=1000&q=80",
+            "https://i.pinimg.com/1200x/e9/fd/ab/e9fdab87dec240636f30e64b460a1531.jpg"
+        ]
+        
+    },
+    {
+        "id": 6,
+        "title": "Pizza 'Carbonara'",
+        "desc": "Carbonara Pizza takes two of my all-time favourite dishes and combines them into one. There is absolutely nothing better than a perfectly cooked pizza dough topped with creamy carbonara sauce, rich guanciale and cheese – lots of cheese! This recipe is a little different to what I would typically add to a pizza, but it’s been kept authentic and is a must-try. Do not let your tastebuds miss out on this Carbonara pizza recipe, it is an experience.",
+        "price": 15,
+        "url": "https://s3-media0.fl.yelpcdn.com/bphoto/R_JvGNLXqrd9loZ495rZfg/1000s.jpg",
+        "thumbnails": [
+            "https://leogrillpizza.ru/wp-content/uploads/2023/05/b8bfaa66-6667-4108-897b-385f88b62818.jpg",
+            "https://portopizza.az/resized/products/f481785e-4695-4746-92ec-55c8433a2dd4-1000-1000-fit.webp",
+            "https://lincontro.ro/wp-content/uploads/2022/01/pizza_carbonara.jpg"
+        ]
+    }
+]
